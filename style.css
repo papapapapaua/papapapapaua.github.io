@@ -1,0 +1,41 @@
+body {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family:'Constantia', bold;
+
+}
+p {
+    padding:10px;
+    border-radius:15%;
+    background-color:black;
+}
+
+#picture {
+    float: left;
+}
+
+#description {
+    float: right;
+    width: 50%;
+
+}
+
+#name {
+    font-weight: bold;
+}
+
+#reviews {
+    clear: both;
+    margin-top: 30px;
+    padding-top: 30px;
+   
+}
+
+#review {
+    padding:10px;
+    border-radius:15%;
+    background-color:white;
+}
