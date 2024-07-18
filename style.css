@@ -38,6 +38,7 @@ p {
   display: inline-block;
   font-size: 16px;
   float: right;
+  border: 10px;
 }
 #name {
     font-weight: bold;
