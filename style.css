@@ -7,10 +7,13 @@ body {
     font-family: "Edu AU VIC WA NT Hand", cursive;
 
 }
+h1 {
+    font-family: "Edu AU VIC WA NT Hand", bold;
+}
 p {
     padding:10px;
     border-radius:15%;
-    background-color:green;
+    background-color:white;
 }
 
 #picture {
