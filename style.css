@@ -40,6 +40,7 @@ p {
   float: left;
   border: 10px;
   margin-left: 10px;
+  margin-right: 10px;
 }
 #name {
     font-weight: bold;
