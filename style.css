@@ -37,7 +37,7 @@ p {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  float: right;
+  float: left;
   border: 10px;
 }
 #name {
